@@ -1,0 +1,2 @@
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyBankingApp\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyBankingApp\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache

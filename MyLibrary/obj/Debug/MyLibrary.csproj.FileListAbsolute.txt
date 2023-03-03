@@ -1,0 +1,11 @@
+C:\Users\LeifS\Desktop\NyBank\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\LeifS\Desktop\NyBank\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\bin\Debug\Dapper.dll
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\bin\Debug\Dapper.xml
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\obj\Debug\MyLibrary.csproj.CopyComplete
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\LeifS\Desktop\NyBank\MyBank\MyLibrary\obj\Debug\MyLibrary.pdb
